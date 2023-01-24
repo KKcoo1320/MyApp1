@@ -1,0 +1,15 @@
+/Users/wangbozhi/MyApp1/bin/Debug/net7.0/MyApp1
+/Users/wangbozhi/MyApp1/bin/Debug/net7.0/MyApp1.deps.json
+/Users/wangbozhi/MyApp1/bin/Debug/net7.0/MyApp1.runtimeconfig.json
+/Users/wangbozhi/MyApp1/bin/Debug/net7.0/MyApp1.dll
+/Users/wangbozhi/MyApp1/bin/Debug/net7.0/MyApp1.pdb
+/Users/wangbozhi/MyApp1/obj/Debug/net7.0/MyApp1.csproj.AssemblyReference.cache
+/Users/wangbozhi/MyApp1/obj/Debug/net7.0/MyApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wangbozhi/MyApp1/obj/Debug/net7.0/MyApp1.AssemblyInfoInputs.cache
+/Users/wangbozhi/MyApp1/obj/Debug/net7.0/MyApp1.AssemblyInfo.cs
+/Users/wangbozhi/MyApp1/obj/Debug/net7.0/MyApp1.csproj.CoreCompileInputs.cache
+/Users/wangbozhi/MyApp1/obj/Debug/net7.0/MyApp1.dll
+/Users/wangbozhi/MyApp1/obj/Debug/net7.0/refint/MyApp1.dll
+/Users/wangbozhi/MyApp1/obj/Debug/net7.0/MyApp1.pdb
+/Users/wangbozhi/MyApp1/obj/Debug/net7.0/MyApp1.genruntimeconfig.cache
+/Users/wangbozhi/MyApp1/obj/Debug/net7.0/ref/MyApp1.dll
